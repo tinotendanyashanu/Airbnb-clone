@@ -42,7 +42,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone 
+git clone https://github.com/tinotendanyashanu/Airbnb-clone.git
 ```
 
 ### Install packages
