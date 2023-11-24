@@ -62,15 +62,7 @@ GITHUB_SECRET=
 NEXTAUTH_SECRET=
 ```
 
-```output
-C:\Users\tinot\AppData\Local\Temp\md-notebook\main.js:9
 
-
-
-
-
-Node.js v20.9.0
-```
 
 ### Setup Prisma
 
