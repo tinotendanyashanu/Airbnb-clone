@@ -14,8 +14,8 @@ import getCurrentUser from "./actions/getCurrentUser";
 import Footer from "./components/Footer";
 
 export const metadata = {
-  title: "Airbnb",
-  description: "Airbnb Clone",
+  title: "Imbaydu",
+  description: "Imbaydu House rental platform",
 };
 
 const font = Nunito({
